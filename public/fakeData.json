@@ -1,23 +1,23 @@
 [
-    {
-      "image": "https://i.ibb.co/tDGnDgy/wed2.png",
-      "id": 1,
-      "name": "Wedding/Engagement",
-      "description": "Wedding photography is the photography of activities relating to weddings. It encompasses photographs of the couple before marriage as well as coverage of the wedding and reception. It is a major commercial endeavor that supports the bulk of the efforts for many photography studios or independent photographers.",
-      "price": "30000 TK"
-    },
-    {
-      "image": "https://i.ibb.co/bv2zf3n/baby.png",
-      "id": 2,
-      "name": "Baby/Birthday",
-      "description": "Babies and Kids Photographers in Bangladesh Ohh! its  12 O'clock Facebook timeline is getting flooded wishes, tagged pictures with near and dear one. Moreover, inboxes of your smart devices such as messenger, imo, whatsapp are full of wishes. Yes guess right we talking about a special occasion of someone's life e.g., birthday",
-      "price": "10000 TK"
-    },
-    {
-      "image": "https://i.ibb.co/3yVkDwG/fashion1.png",
-      "id": 2,
-      "name": "Fashion/Outdoor",
-      "description": "Fashion is one of the most vibrant areas of professional photography. Though only a handful top photographers end up with the glamorous image of international travel, exotic locations and gorgeous models, there is consistent demand in the fashion industry for originality and creativity.",
-      "price": "15000 TK"
-    }
-  ]
+  {
+    "image": "https://i.ibb.co/tDGnDgy/wed2.png",
+    "id": 1,
+    "name": "Wedding/Engagement",
+    "description": "Wedding photography is the photography of activities relating to weddings. It encompasses photographs of the couple before marriage as well as coverage of the wedding and reception. It is a major commercial endeavor that supports the bulk of the efforts for many photography studios or independent photographers.",
+    "price": "30000 TK"
+  },
+  {
+    "image": "https://i.ibb.co/bv2zf3n/baby.png",
+    "id": 2,
+    "name": "Baby/Birthday",
+    "description": "Babies and Kids Photographers in Bangladesh Ohh! its  12 O'clock Facebook timeline is getting flooded wishes, tagged pictures with near and dear one. Moreover, inboxes of your smart devices such as messenger, imo, whatsapp are full of wishes. Yes guess right we talking about a special occasion of someone's life e.g., birthday",
+    "price": "10000 TK"
+  },
+  {
+    "image": "https://i.ibb.co/3yVkDwG/fashion1.png",
+    "id": 2,
+    "name": "Fashion/Outdoor",
+    "description": "Fashion is one of the most vibrant areas of professional photography. Though only a handful top photographers end up with the glamorous image of international travel, exotic locations and gorgeous models, there is consistent demand in the fashion industry for originality and creativity.",
+    "price": "15000 TK"
+  }
+]

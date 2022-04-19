@@ -1,6 +1,6 @@
 # Project Name: SHIL PHOTOGRAPHY
 
-## Live Link:  [assignment10-988a4.web.app]
+## Live Link:  (assignment10-988a4.web.app)
 
 Tools/stack and about the project :
 * React
